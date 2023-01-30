@@ -23,3 +23,24 @@ With 70% of American households owning at least one pet, The U.S. pet industry w
 
 Some of the major advantages of this industry growing as an e-commerce, are the convenience and comfort, product information and choice and having the opportunity to compare prices before choosing the one that has more value in general. 
 
+## Results 
+
+Following data frames show the results for the paid Vine program (image 1) and reviews by unpaid users (image 2). 
+
+<img width="663" alt="paid_program" src="https://user-images.githubusercontent.com/113856917/215587874-6b4756a1-5656-43ce-a0fc-410e783f6fb7.png">
+
+
+<img width="659" alt="unpaid" src="https://user-images.githubusercontent.com/113856917/215587901-5f4accc5-58b1-4eb5-95b0-dc1c582d395b.png">
+
+- In total, there were 170 Vine reviews, and 37,840 non-Vine reviews. 
+- Talking about the 5 stars rating, there were 65 for Vine reviews and 20,612 for non-Vine reviews. 
+- In conclussion, the percentage of these 5 stars review is divided like this:
+
+Vine reviews  | Non-Vine reviews
+------------- | -------------
+38.23%        | 54.47%
+
+
+## Summary 
+
+### Additional analysis 
