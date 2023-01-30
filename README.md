@@ -43,4 +43,8 @@ Vine reviews  | Non-Vine reviews
 
 ## Summary 
 
+According to the results, in this category of products, there was not a positivity bias if there is a comparation between the paid reviews (38%) and unpaid reviews (54%) this could reflect that the reviewers in the Vine program make a more detailed analysis to rate and describe the products, due to the fact that they get a compensation for their time and honesty, this is good for the companies because based on these reviews, they could improve their products characteristics and service. 
+
 ### Additional analysis 
+
+Another analysis that can be performed in order to support the previous statement, would be to get the percentage for every category on the "star-rating" column, having a total of 5 total percentages for paid reviews, and 5 for unpaid reviews, so we can make a deeper analysis using these numbers. 
